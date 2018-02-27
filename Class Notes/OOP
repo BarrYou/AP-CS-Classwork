@@ -1,0 +1,38 @@
+ Class: In the Java programming language, a type that defines the implementation of a particular kind of object. A class definition defines instance and class variables and methods, as well as specifying the interfaces the class implements and the immediate superclass of the class. If the superclass is not explicitly specified, the superclass will implicitly be Object.
+ 
+ Object: Each object is a programming unit consisting of data (instance variables) and functionality (instance methods).
+ 
+ Attribute: Typically a public constant or a public variable that can be accessed directly.
+ 
+ Behavior: Refers to how objects interact with each other, and it is defined by the operations an object can perform.
+ 
+ Encapsulation: A mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit.
+ 
+ Constructor: Special methods that are called when an object is instantiated. In other words, when you use the new keyword. The constructor initializes the newly created object. 
+ 
+ Invoke: To call a method.
+ 
+ Getter methods: Getter and setter are two conventional methods that are used for retrieving and updating value of a variable.
+ Setter methods: Getter and setter are two conventional methods that are used for retrieving and updating value of a variable.
+
+ A class specifies the data and methods that constitute each object.  For each of the following classes, describe what the attributes or data might be and also what methods or behaviors you think are appropriate
+
+a) A fax machine class. Objects of this class enable you to send or receive faxes.
+attributes: Volumn of ink, Call number, Volumn, Mass, Brand, Color
+behaviors: Scan, Print, Send
+b) An audio speaker class
+attributes: Sound volumn
+behaviors: Volumn up, Volumn down
+c) A computer mouse class
+attributes: DPI, Volumn, Mass, Material, Wire or not
+behaviors: DPI up, DPI down, Click
+d) A TV remote control class.
+attributes: Number of buttons, Number of batteries
+behaviors: Change channel, Volumn up, Volumn down, Turn on, Turn off
+e) Dice
+attributes: Number of faces, Volumn
+behaviors: Roll
+
+Bicycle 
+attributes: Number of level speed changers, Weight, Color, Height, Brand, Wheel radius
+behavior: Change speed level, Speed up, Speed down
