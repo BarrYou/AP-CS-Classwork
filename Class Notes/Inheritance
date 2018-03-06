@@ -1,0 +1,16 @@
+Define these terms 
+
+1. Inheritance:  It is the mechanism in java by which one class is allow to inherit the features(fields and methods) of another class.
+2. Superclass: The class whose features are inherited is known as super class.
+3. Subclass:  The class that inherits the other class is known as sub class(or a derived class, extended class, or child class). The subclass can add its own fields and methods in addition to the superclass fields and methods.
+4. extends: A class declaration can use the keyword extends on another class, like this:
+
+class C extends B { … }
+
+When a class C extends class B, C automatically has all variables and methods defined in class B (except private variable and methods).
+5. super(): The syntax for calling a superclass constructor
+
+6.   What is the difference between superclass and subclass, give at least 1 example?
+      People & Student
+7.  Which is bigger? A superclass or a subclass?
+      Subclass
